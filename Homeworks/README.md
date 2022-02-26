@@ -24,7 +24,7 @@ A program a math.h library segítségével függvényekkel számolja ki a kör k
 
 ## masodikhazi_mario.c
 Ez a program kirajzol 2 derékszögű háromszöget az alábbi módon:
-    *  *
+    \*  *
    **  **
   ***  ***
  ****  ****
