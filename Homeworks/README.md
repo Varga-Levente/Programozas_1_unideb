@@ -23,9 +23,4 @@ A program a math.h library segítségével függvényekkel számolja ki a gömb 
 A program a math.h library segítségével függvényekkel számolja ki a kör kerületét és területét
 
 ## masodikhazi_mario.c
-Ez a program kirajzol 2 derékszögű háromszöget az alábbi módon:
-    \*  *
-   **  **
-  ***  ***
- ****  ****
-*****  *****
+Ez a program kirajzol 2 derékszögű háromszöget ami a régi márió játék lépcsőire hasonlít
